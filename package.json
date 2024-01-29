@@ -1,0 +1,19 @@
+{
+  "name": "testoviy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AKuchko/testoviy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AKuchko/testoviy/issues"
+  },
+  "homepage": "https://github.com/AKuchko/testoviy#readme"
+}
